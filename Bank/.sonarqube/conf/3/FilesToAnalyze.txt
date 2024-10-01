@@ -1,0 +1,14 @@
+﻿D:\UPT\Cliclo 7\Pruebas y calidad de software\unidad 1\lab-2024-ii-cps-u1-04-csharp-JersonCh\bank\Bank.WebApi.Tests\BankAccountTests.cs
+C:\Users\Jerson\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\Jerson\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\Jerson\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\Jerson\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\testcentric.engine.metadata.dll
+D:\UPT\Cliclo 7\Pruebas y calidad de software\unidad 1\lab-2024-ii-cps-u1-04-csharp-JersonCh\bank\Bank.WebApi.Tests\TestResults\2c32cb72-3092-440b-81ce-1933402912d9\coverage.cobertura.xml
+D:\UPT\Cliclo 7\Pruebas y calidad de software\unidad 1\lab-2024-ii-cps-u1-04-csharp-JersonCh\bank\Bank.WebApi.Tests\TestResults\5f573b7d-f987-4370-8765-3a92824dcd9f\coverage.cobertura.xml
+D:\UPT\Cliclo 7\Pruebas y calidad de software\unidad 1\lab-2024-ii-cps-u1-04-csharp-JersonCh\bank\Bank.WebApi.Tests\TestResults\b7aaea84-a80e-481a-b6ed-db1838af2421\coverage.opencover.xml
+D:\UPT\Cliclo 7\Pruebas y calidad de software\unidad 1\lab-2024-ii-cps-u1-04-csharp-JersonCh\bank\Bank.WebApi.Tests\TestResults\e5b96d54-bb22-4641-9b50-41f33268c60b\coverage.cobertura.xml
